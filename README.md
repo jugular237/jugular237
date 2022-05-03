@@ -10,3 +10,4 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@juglr](https://telegram.me/juglr)</code>
 <code>📫 [laziutaoleksij](mailto:laziutaoleksij)</code>
+https://www.codewars.com/users/jugular237/badges/small
