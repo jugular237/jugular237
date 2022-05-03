@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IM-13</code>
-<code>⚪ Community: Metarhia</code>
+<code>⚪ Community: KPI FICT</code>
 <code>👷 Speciality: Software engineer / GameDev</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
