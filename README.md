@@ -3,7 +3,6 @@
 <code>👷 Speciality: Software engineer / GameDev</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: C#</code>
 <code>📦 Tech stack: .NET</code>
 <code>🪙 [Rates](RATES.md)</code><br>
