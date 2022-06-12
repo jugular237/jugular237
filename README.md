@@ -13,7 +13,7 @@ src="https://www.codewars.com/users/jugular237/badges/small" /><br>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>🧑‍💻 Languages: C#</code><br>
 <code>📦 Tech stack: .NET</code><br>
-<code>📫 [laziutaoleksij](mailto:laziutaoleksij)</code><br>
+
 
 ### Connect with me:
 
