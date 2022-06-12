@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-![](https://komarev.com/ghpvc/?username=olexiy1)
+![](https://komarev.com/ghpvc/?username=olexiy1)<br>
 <img align="left" alt="Codewars" 
 src="https://www.codewars.com/users/jugular237/badges/small" /><br>
 
