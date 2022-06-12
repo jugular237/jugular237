@@ -1,6 +1,8 @@
 ### Greetings 👋
 
 ![](https://komarev.com/ghpvc/?username=olexiy1)
+<img align="left" alt="Codewars" 
+src="https://www.codewars.com/users/jugular237/badges/small" /><br>
 
 ### About me:
 <code>🎓 Student: KPI / IM-13</code><br>
