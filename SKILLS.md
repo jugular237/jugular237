@@ -1,4 +1,4 @@
-# Personal profile of software engineering skills
+# Personal profile of software engineering skills (С#)
 
 ⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
 
