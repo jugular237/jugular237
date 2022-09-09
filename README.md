@@ -6,9 +6,9 @@
 src="https://www.codewars.com/users/jugular237/badges/small" /><br>
 
 ### About me:
-<code>🎓 Student: KPI / IM-13</code><br>
+<code>🎓 Student: KPI / IP-15</code><br>
 <code>⚪ Community: KPI FICT</code><br>
-<code>👷 Speciality: Software engineer / GameDev</code><br>
+<code>👷 Speciality: Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>🧑‍💻 Languages: C#</code><br>
