@@ -1,4 +1,3 @@
-### Greetings 👋
 
 ![](https://komarev.com/ghpvc/?username=olexiy1)<br>
 
