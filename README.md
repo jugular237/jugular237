@@ -22,8 +22,3 @@ src="https://www.codewars.com/users/jugular237/badges/small" /><br>
 [instagram]: https://www.instagram.com/oleksiylaziuta/
 [telegram]: https://telegram.me/juglr
 [gmail]: mailto:laziutaoleksij
-<br />
-<br />
-
-
-
