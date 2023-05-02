@@ -1,6 +1,6 @@
 
 <img align="left" alt="Codewars" 
-src="https://www.codewars.com/users/jugular237/badges/small" /><br>
+src="https://www.codewars.com/users/laziutaO/badges/small" /><br>
 
 ### About me:
 <code>🎓 Student: KPI / IP-15</code><br>
