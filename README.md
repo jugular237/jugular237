@@ -7,7 +7,7 @@ src="https://www.codewars.com/users/laziutaO/badges/small" /><br>
 <code>⚪ Community: KPI FICT</code><br>
 <code>👷 Speciality: Software engineer </code><br>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
-<code>🧑‍💻 Languages: C#</code><br>
+<code>🧑‍💻 Languages: C#, Python</code><br>
 <code>📦 Tech stack: .NET</code><br>
 
 
