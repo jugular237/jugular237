@@ -19,5 +19,5 @@ src="https://www.codewars.com/users/laziutaO/badges/small" /><br>
 <br />
 
 [instagram]: https://www.instagram.com/oleksiylaziuta/
-[telegram]: https://telegram.me/digginahole
+[telegram]: https://telegram.me/laziutaO
 [gmail]: mailto:laziutaoleksij
